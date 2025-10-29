@@ -21,3 +21,9 @@
 
 # PRACTICE 3
 
+
+<img width="788" height="457" alt="image" src="https://github.com/user-attachments/assets/00de4e1d-2086-4900-ae53-4d3f84626f14" />
+
+<img width="791" height="452" alt="image" src="https://github.com/user-attachments/assets/3f77935d-85ec-4bbe-9ace-52f7eaef3f47" />
+
+<img width="791" height="452" alt="image" src="https://github.com/user-attachments/assets/abba6cc4-3128-4f30-9f6d-e837a38516f7" />
